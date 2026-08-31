@@ -1,2 +1,2 @@
-# Projeto-alura-Fun-es-criando-uma-miss-o-Inteligencia-Artificial-
-trabalho do alura
+# MissaoIA
+Projeto baseado na unidade da Alura Start chamada "Funções: criando uma missão sobre inteligência Artificial"
